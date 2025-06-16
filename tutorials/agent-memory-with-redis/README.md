@@ -17,7 +17,7 @@ The goal of this tutorial is to empower you with a **horizontal concept** that y
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NirDiamant/agents-towards-production-private/blob/main/tutorials/agent-memory-with-redis/agent_memory_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NirDiamant/agents-towards-production/blob/main/tutorials/agent-memory-with-redis/agent_memory_tutorial.ipynb)
 
 
 ## 📋 Requirements

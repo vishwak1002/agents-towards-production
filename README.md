@@ -115,7 +115,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Agent Orchestration: Multi-Tool, Memory & Messaging Workflows (xpander.ai)</td>
     <td>Learn to orchestrate tools, memory, multi-user state, and agent-to-agent messaging for production-ready AI agents. Example: Automate meeting recording and reporting workflows.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agentic-applications-by-xpander.ai"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agentic-applications-by-xpander.ai"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Real-Time Web Data Integration for Agents (Tavily)</td>
     <td>Enable agents to access, search, and extract real-time web data. Build workflows that combine live web information with private knowledge for research, monitoring, and up-to-date recommendations.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-with-tavily-web-access"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-tavily-web-access"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -149,14 +149,14 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Agent Observability: Tracing, Monitoring & Debugging (Qualifire)</td>
     <td>Gain end-to-end tracing, real-time monitoring, and debugging for agent workflows. Learn to capture logs, traces, and quality metrics for troubleshooting and optimization.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-observability-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-observability-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
     <td>Agent Tracing & Debugging with LangSmith</td>
     <td>Add comprehensive observability to AI systems. Capture detailed traces, decision points, and timing data to debug, monitor, and systematically improve agent performance.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/tracing-with-langsmith"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/tracing-with-langsmith"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -173,21 +173,21 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Scalable GPU Deployment for AI Agents (Runpod)</td>
     <td>Deploy AI agents on scalable GPU infrastructure. Learn to set up cost-effective, high-performance environments for demanding agent workloads.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/runpod-gpu-deploy"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/runpod-gpu-deploy"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
     <td>Containerizing Agents with Docker</td>
     <td>Containerize agents for portability and scalability. Learn foundational patterns for running agents in containers across environments.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/docker-intro"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/docker-intro"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
     <td>On-Prem LLM Deployment with Ollama</td>
     <td>Run and interact with large language models locally. Replace cloud APIs with on-prem models for privacy, cost control, and low-latency agent workflows.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/on-prem-llm-ollama"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/on-prem-llm-ollama"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -204,7 +204,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Agent Memory: Dual-Memory & Semantic Search (Redis)</td>
     <td>Implement dual-memory (short-term and long-term), semantic search, and persistent state for agents that remember user preferences and learn from conversations.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-memory-with-redis"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -221,7 +221,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Building a Chatbot UI with Streamlit</td>
     <td>Build a beginner-friendly chatbot web app with a chat interface, file upload, and session state for interactive agent demos.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-with-streamlit-ui"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-streamlit-ui"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -238,21 +238,21 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Tool & API Integration via Model Context Protocol (MCP)</td>
     <td>Integrate agents with external tools and APIs using a standardized protocol. Example: Seamless tool and API integration for advanced agent workflows.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-with-mcp"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-with-mcp"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
     <td>Stateful Agent Workflows with LangGraph</td>
     <td>Design complex, stateful agent workflows using a directed graph architecture. Example: Multi-step text analysis pipeline with classification, entity extraction, and summarization.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/LangGraph-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/LangGraph-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
     <td>Deploying Agents as APIs with FastAPI</td>
     <td>Create and deploy agents as performant APIs, supporting both synchronous and streaming endpoints.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/fastapi-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/fastapi-agent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -269,7 +269,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Fine-Tuning AI Agents for Domain Expertise & Efficiency</td>
     <td>Learn how to fine-tune language models for specialized agent behavior, domain expertise, and efficient, cost-effective responses. Covers data preparation, training, evaluation, and integration into agent workflows.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/fine-tunning-agents"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/fine-tunning-agents"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -286,7 +286,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Multi-Agent Communication with A2A Protocol</td>
     <td>Simulate collaborative agent workflows and message exchange using open communication protocols for interoperability.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/a2a"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/a2a"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
@@ -303,14 +303,14 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Real-Time Security Guardrails for Agents (Qualifire)</td>
     <td>Block prompt injections, hallucinations, unsafe content, and enforce security policies in real time. Learn to implement robust guardrails for agent safety.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-security-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-security-with-qualifire"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
     <td>Comprehensive Agent Security (LlamaFirewall)</td>
     <td>Apply comprehensive input, output, and tool security guardrails for agents. Covers prompt injection, behavior alignment, and tool access control.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-security-with-llamafirewall"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-security-with-llamafirewall"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
   <tr>
@@ -334,7 +334,7 @@ All knowledge is delivered through runnable tutorials covering orchestration, me
     <td>Automated Agent Evaluation & Behavioral Analysis (IntellAgent)</td>
     <td>Automate agent evaluation with behavioral analysis, performance metrics, and actionable insights for improving agent quality.</td>
     <td align="center">
-      <a href="https://github.com/NirDiamant/agents-towards-production-private/tree/main/tutorials/agent-evaluation-intellagent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
+      <a href="https://github.com/NirDiamant/agents-towards-production/tree/main/tutorials/agent-evaluation-intellagent"><img src="https://img.shields.io/badge/GitHub-View-blue" height="20"></a>
     </td>
   </tr>
 </table>
