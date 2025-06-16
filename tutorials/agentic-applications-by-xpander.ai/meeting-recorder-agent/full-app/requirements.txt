@@ -1,0 +1,7 @@
+xpander-sdk
+xpander-utils
+openai
+dotenv
+loguru
+asyncio
+reportlab
