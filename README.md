@@ -382,7 +382,7 @@ Navigate to your target tutorial and set up the environment:
 ```bash
 # Example: Multi-tool agent orchestration
 cd tutorials/agentic-applications-by-xpander.ai
-pip install -r requirements.txt
+pip install -r meeting-recorder-agent\requirements.txt
 ```
 
 **3. Deploy and Test**
