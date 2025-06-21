@@ -120,3 +120,7 @@ This tutorial uses the OpenAI Agents SDK, which provides comprehensive monitorin
 ![OpenAI Dashboard showing LlamaFirewall guardrail invocation](assets/openai-trace.png)
 
 This monitoring capability helps ensure transparency and allows you to verify that the guardrails are working as intended.
+
+
+### Additional Resources
+* [LlamaFirewall: An open source guardrail system for building secure AI agents](https://arxiv.org/pdf/2505.03574)
