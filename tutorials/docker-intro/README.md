@@ -39,7 +39,7 @@ This tutorial will cover the following topics:
 This is a beginner level tutorial, and it does not require any prior knowledge. However, it is recommended that you have some basic understanding of command line commands. 
 
 To run the examples in this tutorial you will need:
-- Docker Desktop (or eqvalent) installed on your computer
+- Docker Desktop (or equivalent) installed on your computer
 - Docker Hub account
 
 ### Installing Docker Desktop
@@ -57,7 +57,7 @@ To install Docker Desktop, go to [Docker website](https://www.docker.com/product
 <br>
 <br />
 
-After you have installed Docker Desktop, it should launch it automaticly. If it does not launch automatically, click on the icon in the top right corner of the screen (on macOS).
+After you have installed Docker Desktop, it should launch it automatically. If it does not launch automatically, click on the icon in the top right corner of the screen (on macOS).
 
 You can validate from the terminal if Docker is running by typing `docker --version`:
 ```shell
@@ -510,7 +510,7 @@ A simple solution is to mount a volume with the volume argument. For simplicity,
 print("Hello World!")
 ```
 
-Before launching the container, let's rebuild the image and add the `CMD` instruction to launch the bash terminal inside the container instead of Python. We will use the below `Doclerfile`:
+Before launching the container, let's rebuild the image and add the `CMD` instruction to launch the bash terminal inside the container instead of Python. We will use the below `Dockerfile`:
 
 `./examples/ex3/Dockerfile`
 ``` Dockerfile
