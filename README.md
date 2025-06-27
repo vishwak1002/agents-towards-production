@@ -34,20 +34,7 @@ Whether you're just starting out or refining your deployment stack, this repo gi
 
 <!-- row 2 -->
 <p align="center">
-  <a href="tutorials/runpod-gpu-deploy"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.png" alt="RunPod" height="40" style="display: inline-block; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;
-
-  <a href="tutorials/agentic-applications-by-xpander.ai" style="display: inline-block; vertical-align: middle;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png">
-      <img
-        src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png"
-        alt="xpander.ai Logo"
-        height="40"
-      >
-    </picture>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="tutorials/agent-observability-with-qualifire"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="50" style="display: inline-block; vertical-align: middle;"></a>
+  <a href="tutorials/runpod-gpu-deploy"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_runpod.png" alt="RunPod" height="40" style="display: inline-block; vertical-align: middle;"></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agentic-applications-by-xpander.ai" style="display: inline-block; vertical-align: middle;"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_dark.png"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_xpander_light.png" alt="xpander.ai Logo" height="40"></picture></a>&nbsp;&nbsp;&nbsp;<a href="tutorials/agent-observability-with-qualifire"><img src="assets/repos_images/sponsors_logos/trimmed_padded/trimmed_padded_qualifire.png" alt="Qualifire" height="50" style="display: inline-block; vertical-align: middle;"></a>
 </p>
 
 
